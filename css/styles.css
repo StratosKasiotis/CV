@@ -17,3 +17,7 @@ body {
   font-family: Tahoma, sans-serif;
   font-size: 15
 }
+
+img {
+  border-radius: 50%;
+}
